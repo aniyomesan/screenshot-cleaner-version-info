@@ -1,0 +1,1 @@
+# screenshot-cleaner-version-info
